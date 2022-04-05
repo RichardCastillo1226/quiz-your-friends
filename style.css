@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-size: cover;
     background-repeat: no-repeat;
@@ -18,3 +19,18 @@ fieldset{
     
     
 }
+=======
+fieldset {
+    color: purple;
+    margin: auto;
+    width: 50%; 
+    text-align: center;
+} 
+
+textarea {
+    color: teal;
+    margin: auto; 
+    text-align: left; 
+} 
+
+>>>>>>> 9ddbdfaf7d17a1ec666247e2fb1fccf0503a6ee4
